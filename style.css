@@ -29,7 +29,7 @@ header{
     transition: all ease 0.3s;
 }
 .nav-menu a:hover{
-    color: white;
+    color: black;
     background-color: #333;
     border-radius:6px;
 }
